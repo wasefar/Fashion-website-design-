@@ -1,0 +1,37 @@
+#welcome.service_title{
+	padding-top: 20px;
+}
+.container-fluid.index2-welcome.service_item{
+	margin-top: 20px;
+}
+.index2-color-back4{
+	background: #F865A3;
+}
+.sc_contant_pd0{
+	padding: 0px;
+}
+.section-gap.section_padding{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.row.top-80.section_padding{
+	margin-top: 20px;
+
+}
+p.section_para_title_bottom {
+    font-size: 18px;
+}
+p.section_para_title_bottom::after{
+	top: 60px;
+}
+.section_bottom{
+	margin-bottom: 20px;
+}
+.banner-1-content.item h4{
+	font-size: 22px;
+}
+h2.fashion_sc_title {
+    font-size: 39px;
+    color: #fff;
+    padding-top: 28px;
+}

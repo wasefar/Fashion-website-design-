@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+/*
+	[ Shortcode Stylesheet ]
+	<?xml version="1.0" encoding="UTF-8"?>
+
+	Theme Name: Bishop
+	Version: 1.0.0
+	Author: webRedox
+	Author URI: 
+	Description:Multi-Purpose Theme by webRedox
+*/
+
+
+@import "font-awesome.min.css";
+@import "bootstrap.min.css";
+@import "nav-media.css";
+@import "media.css";
+@import "component.css";
+@import "owl.carousel.css";
+@import "owl.theme.css";
+@import "owl.transitions.css";
+@import "revolution-slider/settings.css";
+@import "revolution-slider/extralayers.css";
+@import "revolution-slider/revolution-style.css";
+@import "slick.css";
+@import "thumbelina.css";
+@import "cloud-zoom.css";
+@import "ytplayer.css";
+@import "style.css";
+@import "magnific-popup.css";
+@import "jquery.bxslider.css";
+@import "liquid-slider.css";
+@import "animate.css";
